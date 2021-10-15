@@ -8,5 +8,4 @@
 * React.js, Node.js, Express.js, MongoDB, MatrialUi, Chart.js
 
 ## Description
-* Linkedin: https://www.linkedin.com/in/ejahed
-* School: University of Eastern Finland (Graduated in 2020)
+A Full-stack project develop from scratch by my own. Using data from __google fit rest Api__ and EU Funded __SELI project__, developed a self-regulated learning system to Improve students both __study__ and __Health__.
