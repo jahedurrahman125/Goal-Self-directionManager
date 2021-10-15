@@ -35,7 +35,6 @@ const scopes = [
 	"email",
 	'https://www.googleapis.com/auth/fitness.activity.read',
 ];
-// var url = 'mongodb+srv://test:test@mycluster.joqpq.mongodb.net/newdb?retryWrites=true&w=majority';
 var url = 'mongodb://localhost:27017/newdb';
 mongoose.connect(url, {
 	useNewUrlParser: true,
